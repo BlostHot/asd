@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "6b82a932-09c0-3eee-8a39-42efa221730a",
+    "name": "Osuna",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "de8ebdeb-43c4-3ff9-bd97-edd6b9e74ee2",
+    "name": "Tablos",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3328c4d2-a1f5-4481-a908-d9b8e1a19b1a",
+    "name": "Tablos",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
